@@ -2,21 +2,8 @@ react , redux , routes
 
 -------instruction manual------
 
-git clone HTTPS 
-
-{After clone repo commands }
-
-cd notes-fronted
-
+git clone https://github.com/manojsinghnegiwd/notes-website.git
+cd notes-website
 npm install
 
-{if it's show any error then install}
-
-{npm install error or bellow}
-npm install react-tap-event-plugin
-
 npm run dev
-
-{Open in browser:-}
-
-localhost:8080
