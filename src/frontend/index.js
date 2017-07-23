@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 
 import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
 
-import Main from './components/main.js'
-import Login from './components/login.js'
-import App from './components/App.js'
+import Main from './components/main'
+import Login from './components/login'
+import App from './components/App'
+import SignUp from './components/signUp';
 
 
 
@@ -19,6 +20,7 @@ class Notes extends React.Component{
 		         <IndexRoute component = {Main} />
 		         <Route path = "main" component = {Main} />
 		         <Route path = "login" component = {Login} />
+		         <Route path ="signUp" component = {SignUp} />
 		         
 		      </Route>
 		   </Router>
