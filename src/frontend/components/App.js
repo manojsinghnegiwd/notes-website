@@ -11,12 +11,10 @@ class App extends React.Component {
    render() {
       return (
          <div>
-         
-    
-
-
+ 
          <ul>
-         	{/*<Link to='main'> Home</Link>
+         	{/*
+               <Link to='main'> Home</Link>
                <Link to='signUp'>SignUp</Link>
 	         	<Link to='login'><button type="button" class="btn btn-primary">Primary</button></Link>
          	*/}

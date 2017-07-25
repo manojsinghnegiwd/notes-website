@@ -19,6 +19,8 @@ class Main extends React.Component {
 					   using React will lead Hi i am Puranto a fast user interface without doing much work to 
 					   specifically optimize for performance. Nevertheless, there are several ways you 
 					   can speed up your React application.
+					   specifically optimize for performance. Nevertheless, there are several ways you 
+					   can speed up your React application.
 				  	<br />
 				   	<br />
 					   If you're benchmarking or experiencing performance problems 
